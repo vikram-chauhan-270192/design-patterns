@@ -2,7 +2,7 @@
 
 https://chatgpt.com/share/6994ba4f-e62c-800e-9d4a-22f3542aace7
 
-# SOLID Principles in TypeScript (Examples)
+# 01. SOLID Principles in TypeScript (Examples)
 
 This repository contains small TypeScript snippets that demonstrate each of the SOLID principles. Every principle has two files:
 - `wrong.ts` shows a design that violates the principle.
@@ -142,7 +142,7 @@ If you want, I can expand this README with runnable examples, diagrams, or tests
 
 https://chatgpt.com/share/6994ba57-02c8-800e-8874-c534792451e4
 
-# Creational Design Patterns (TypeScript Examples)
+# 02. Creational Design Patterns (TypeScript Examples)
 
 This repository contains focused TypeScript examples for common creational design patterns. Each folder is a self‑contained example with a single `right.ts` file that demonstrates the pattern in a realistic, production‑style scenario.
 
@@ -304,7 +304,7 @@ If you want, I can also add a top‑level `index.ts` that imports and runs each 
 
 https://chatgpt.com/share/6994bd0f-6d58-800e-b316-657c67ddcce2
 
-# Structural Design Patterns (TypeScript)
+# 03. Structural Design Patterns (TypeScript)
 
 This project contains compact, real-world-leaning TypeScript examples of the classic **Structural Design Patterns**. Each folder holds a single `right.ts` file that demonstrates the pattern with minimal noise and a focused use case.
 
@@ -419,7 +419,7 @@ Adapter, Bridge, Composite, Decorator, Facade, Flyweight, and Proxy.
 
 https://chatgpt.com/share/6994bd98-8298-800e-a6c9-ab9f5c3b6993
 
-# Behavioral Design Patterns in TypeScript
+# 04. Behavioral Design Patterns in TypeScript
 
 ## Overview
 This repository contains small, focused TypeScript examples for classic behavioral design patterns. Each pattern lives in its own folder and is implemented in a single file named `right.ts`. The examples are intentionally minimal and include a small usage snippet to show how the pattern is applied.
