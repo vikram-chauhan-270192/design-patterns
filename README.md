@@ -1,5 +1,4 @@
-<h1 style="color:darkred;">🔥 SOLID Principles & Design Patterns in TypeScript</h1>
-![Heading](https://img.shields.io/badge/My%20Heading-FF4D4D?style=for-the-badge)
+# SOLID Principles & Design Patterns in TypeScript
 
 https://chatgpt.com/share/6994ba4f-e62c-800e-9d4a-22f3542aace7
 
