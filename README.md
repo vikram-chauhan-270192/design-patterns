@@ -1,4 +1,4 @@
-<h1 style="color:#ff4d4d;">🔥 SOLID Principles & Design Patterns in TypeScript</h1>
+<h1 style="color:darkred;">🔥 SOLID Principles & Design Patterns in TypeScript</h1>
 
 https://chatgpt.com/share/6994ba4f-e62c-800e-9d4a-22f3542aace7
 
